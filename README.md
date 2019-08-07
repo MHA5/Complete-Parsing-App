@@ -3,4 +3,4 @@ Includes Top-Down and Bottom-Up parsers.
 
 Tested using ECLIPSE IDE
 
-Requiress Windows Builder for GUI
+Requires "Windows Builder" for GUI
